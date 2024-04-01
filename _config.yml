@@ -1,5 +1,49 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
+title: Nice things about Azure | Azure Stack Hub & HCI | NetApp Cloud Services and other cool Cloud Technologies
+description: Personal blog by Christian Twilfer
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-midnight
+
+twitter_username: AzureCris
+github_username: chtwilfer
+search: true
+
+author:
+  name   : "Christian Twilfer (AzureCris)"
+  avatar : "/assets/images/IMG-20190611.jpg"
+  bio    : "✨ Cloud journeys are unique—and there’s often room for optimization when you start to move your organization’s services to the cloud."
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/azurecris"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chtwilfer"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/azurecris"
+    - label: "Webcast AzS Hub Use Cases"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/watch?v=fc8AHtNxMXs"
+    - label: "AzS Hub Podcast - Episode 6"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434833818&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+    - label: "AzS Hub Podcast - Episode 7"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/445692087&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+    - label: "AzurConf - Online Conference"
+      url: "https://azurconf.de"
+    - label: "AzurConf - Recording 2020"
+      url: "https://www.orange-networks.com/downloads/azurconf-2020-ihre-unterlagen"
+ 
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/azurecris"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/chtwilfer"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/azurecris"
